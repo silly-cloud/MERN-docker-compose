@@ -1,6 +1,6 @@
-# A simple MERN stack application 
+# A simple MERN stack application .
 
-### Create a network for the docker containers
+https://github.com/silly-cloud/MERN-docker-compose.git### Create a network for the docker containers
 
 `docker network create demo`
 
